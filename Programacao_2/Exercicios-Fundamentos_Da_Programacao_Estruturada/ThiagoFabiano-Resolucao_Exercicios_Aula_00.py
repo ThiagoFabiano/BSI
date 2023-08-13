@@ -1,6 +1,4 @@
-
-def main():
-    imprimirPrimosAteK(100)
+# Nome: Thiago Fabiano
 
 #Exercicio 1
 def calcularFatorial(num: int) -> int:
@@ -135,7 +133,3 @@ def tempoDeSono(horaAtual: int, minutoAtual:int, horaAlarme: int, minutoAlarme: 
             deuAHora = False
     return minutosDeSono
         
-
-
-if __name__ == "__main__":
-    main()
